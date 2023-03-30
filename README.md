@@ -1,15 +1,5 @@
-# Expo Router Example
+# JobEasy - Job Finder App
 
-Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
+A Job-Finder app made using React Native using JSearch API for accessing list of jobs according to location and requirements. Contains various features like listing popular jobs, nearby jobs and searching for jobs regarding a certain skill.
 
-## 🚀 How to use
-
-```sh
-npx create-react-native-app -t with-router
-```
-
-## 📝 Notes
-
-- [Expo Router: Docs](https://expo.github.io/router)
-- [Expo Router: Repo](https://github.com/expo/router)
-- [Request for Comments](https://github.com/expo/router/discussions/1)
+Includes interactive search bar and buttons with loading animations
